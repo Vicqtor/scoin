@@ -1,2 +1,2 @@
 # scoin
-Blockchain; Crypto Currency
+cryptocurrency

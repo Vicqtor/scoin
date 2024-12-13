@@ -1,0 +1,7 @@
+{
+	"wallet": {
+		"id": "",
+		"pass": ""
+	},
+	"rates_source": "https://www.coingecko.com/en/price_charts/bitcoin/inr"
+}

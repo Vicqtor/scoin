@@ -6,6 +6,8 @@ infinite loop:
  - cur_rates
 '''
 
+def reset():pass
+	
 def alert(info):
 	notify2.init('sc pfm')
         notif = notify2.Notification('scoin', info)

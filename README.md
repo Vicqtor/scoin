@@ -1,2 +1,2 @@
 # scoin
-cryptocurrency
+Blockchain | Cryptocurrency| Encryption | Decryption
